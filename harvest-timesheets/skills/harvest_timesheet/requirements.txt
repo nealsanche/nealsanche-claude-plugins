@@ -1,0 +1,13 @@
+# Harvest Timesheet Automation Requirements
+
+# HTTP requests for Harvest API
+requests>=2.31.0
+
+# YAML parsing for .project.yaml
+pyyaml>=6.0.1
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Git repository analysis
+gitpython>=3.1.40

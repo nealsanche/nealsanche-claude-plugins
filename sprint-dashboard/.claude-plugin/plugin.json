@@ -1,0 +1,11 @@
+{
+  "name": "sprint-dashboard",
+  "version": "1.0.0",
+  "description": "Live sprint status dashboard with WebSocket updates for BMAD projects",
+  "author": {
+    "name": "Neal Sanche",
+    "url": "https://github.com/nealsanche"
+  },
+  "license": "MIT",
+  "keywords": ["bmad", "sprint", "dashboard", "status", "websocket"]
+}

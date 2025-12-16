@@ -1,0 +1,11 @@
+{
+  "name": "figma-analyzer",
+  "version": "1.0.0",
+  "description": "Analyze Figma designs via MCP tools for pixel-perfect implementation specs",
+  "author": {
+    "name": "Neal Sanche",
+    "url": "https://github.com/nealsanche"
+  },
+  "license": "MIT",
+  "keywords": ["figma", "design", "mcp", "implementation", "ui"]
+}

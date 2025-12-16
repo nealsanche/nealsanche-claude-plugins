@@ -1,0 +1,11 @@
+{
+  "name": "moon-phase",
+  "version": "1.0.0",
+  "description": "Display current moon phase with ASCII art visualization and lunar information",
+  "author": {
+    "name": "Neal Sanche",
+    "url": "https://github.com/nealsanche"
+  },
+  "license": "MIT",
+  "keywords": ["moon", "lunar", "astronomy", "ascii-art", "phase"]
+}

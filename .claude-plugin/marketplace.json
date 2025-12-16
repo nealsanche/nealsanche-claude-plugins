@@ -1,0 +1,37 @@
+{
+  "name": "nealsanche-plugins",
+  "metadata": {
+    "description": "Neal Sanche's Claude Code tools and utilities",
+    "version": "1.0.0"
+  },
+  "owner": {
+    "name": "Neal Sanche",
+    "url": "https://github.com/nealsanche"
+  },
+  "plugins": [
+    {
+      "name": "sprint-dashboard",
+      "source": "./sprint-dashboard",
+      "description": "Live sprint status dashboard with WebSocket updates for BMAD projects",
+      "version": "1.0.0"
+    },
+    {
+      "name": "moon-phase",
+      "source": "./moon-phase",
+      "description": "Display current moon phase with ASCII art visualization",
+      "version": "1.0.0"
+    },
+    {
+      "name": "figma-analyzer",
+      "source": "./figma-analyzer",
+      "description": "Analyze Figma designs via MCP tools for pixel-perfect implementation",
+      "version": "1.0.0"
+    },
+    {
+      "name": "harvest-timesheets",
+      "source": "./harvest-timesheets",
+      "description": "Submit weekly Harvest timesheets through LLM-guided conversation",
+      "version": "1.0.0"
+    }
+  ]
+}

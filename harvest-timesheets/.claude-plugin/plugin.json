@@ -1,0 +1,11 @@
+{
+  "name": "harvest-timesheets",
+  "version": "1.0.0",
+  "description": "Submit weekly Harvest timesheets through LLM-guided conversation",
+  "author": {
+    "name": "Neal Sanche",
+    "url": "https://github.com/nealsanche"
+  },
+  "license": "MIT",
+  "keywords": ["harvest", "timesheets", "time-tracking", "workflow"]
+}
